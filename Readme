@@ -1,0 +1,16 @@
+Readme file 
+
+
+for api/getconfigdetails =ADMIN
+
+api/getproductdetails=USER,ADMIN
+
+User Credentials
+User name =venkat
+password=12345
+
+ADMIN Credentials
+User name =venkatbasa
+password=54321
+
+
